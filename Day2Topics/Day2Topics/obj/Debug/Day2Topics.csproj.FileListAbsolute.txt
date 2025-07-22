@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\bin\Debug\Day2Topics.exe.config
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\bin\Debug\Day2Topics.exe
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\bin\Debug\Day2Topics.pdb
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\obj\Debug\Day2Topics.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\obj\Debug\Day2Topics.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\obj\Debug\Day2Topics.exe
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\obj\Debug\Day2Topics.pdb
+E:\WIPROSkillingPrograms\Day2Topics\Day2Topics\obj\Debug\Day2Topics.exe.config

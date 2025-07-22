@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day2Topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\employeeboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\employeeboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day2Topics||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\boxingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\boxingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\boxtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\foreachloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\foreachloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\countvowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\countvowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\spiltstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\spiltstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\palindromestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\palindromestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\stringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|solutionrelative:day2topics\\stringarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3DD0A6-1DCC-455D-B3C4-B4E447201127}|Day2Topics\\Day2Topics.csproj|e:\\wiproskillingprograms\\day2topics\\day2topics\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeBoxing.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\EmployeeBoxing.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\EmployeeBoxing.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\EmployeeBoxing.cs",
+              "RelativeToolTip": "Day2Topics\\EmployeeBoxing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:23:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\Employee.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\Employee.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\Employee.cs",
+              "RelativeToolTip": "Day2Topics\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T13:06:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoxingExample.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\BoxingExample.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\BoxingExample.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\BoxingExample.cs",
+              "RelativeToolTip": "Day2Topics\\BoxingExample.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:49:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BoxTest.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\BoxTest.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\BoxTest.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\BoxTest.cs",
+              "RelativeToolTip": "Day2Topics\\BoxTest.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:44:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PalindromeString.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\PalindromeString.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\PalindromeString.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\PalindromeString.cs",
+              "RelativeToolTip": "Day2Topics\\PalindromeString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:19:42.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpiltString.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\SpiltString.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\SpiltString.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\SpiltString.cs",
+              "RelativeToolTip": "Day2Topics\\SpiltString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:44:22.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountVowels.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\CountVowels.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\CountVowels.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\CountVowels.cs",
+              "RelativeToolTip": "Day2Topics\\CountVowels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:34:19.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Day2Topics",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\Day2Topics.csproj",
+              "RelativeDocumentMoniker": "Day2Topics\\Day2Topics.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\Day2Topics.csproj",
+              "RelativeToolTip": "Day2Topics\\Day2Topics.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T11:25:57.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringArray.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\StringArray.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\StringArray.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\StringArray.cs",
+              "RelativeToolTip": "Day2Topics\\StringArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:29:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForEachLoop.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\ForEachLoop.cs",
+              "RelativeDocumentMoniker": "Day2Topics\\ForEachLoop.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day2Topics\\Day2Topics\\ForEachLoop.cs",
+              "RelativeToolTip": "Day2Topics\\ForEachLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:06:59.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
