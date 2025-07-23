@@ -3,18 +3,8 @@
   "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day3Topics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|e:\\wiproskillingprograms\\day3topics\\day3topics\\inheritanceconstructoreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|solutionrelative:day3topics\\inheritanceconstructoreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day3Topics||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|e:\\wiproskillingprograms\\day3topics\\day3topics\\inhertianceeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|solutionrelative:day3topics\\inhertianceeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|e:\\wiproskillingprograms\\day3topics\\day3topics\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|e:\\wiproskillingprograms\\day3topics\\day3topics\\tostring_and_objectarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803FBB52-397B-48C6-8693-C8F3FFA4DC09}|Day3Topics\\Day3Topics.csproj|solutionrelative:day3topics\\tostring_and_objectarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,39 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InheritanceConstructorEg.cs",
-              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\InheritanceConstructorEg.cs",
-              "RelativeDocumentMoniker": "Day3Topics\\InheritanceConstructorEg.cs",
-              "ToolTip": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\InheritanceConstructorEg.cs*",
-              "RelativeToolTip": "Day3Topics\\InheritanceConstructorEg.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Title": "ToString_and_ObjectArray.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\ToString_and_ObjectArray.cs",
+              "RelativeDocumentMoniker": "Day3Topics\\ToString_and_ObjectArray.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\ToString_and_ObjectArray.cs",
+              "RelativeToolTip": "Day3Topics\\ToString_and_ObjectArray.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:32:15.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Day3Topics",
-              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\Day3Topics.csproj",
-              "RelativeDocumentMoniker": "Day3Topics\\Day3Topics.csproj",
-              "ToolTip": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\Day3Topics.csproj*",
-              "RelativeToolTip": "Day3Topics\\Day3Topics.csproj*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-23T10:31:06.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InhertianceEg1.cs",
-              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\InhertianceEg1.cs",
-              "RelativeDocumentMoniker": "Day3Topics\\InhertianceEg1.cs",
-              "ToolTip": "E:\\WIPROSkillingPrograms\\Day3Topics\\Day3Topics\\InhertianceEg1.cs",
-              "RelativeToolTip": "Day3Topics\\InhertianceEg1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T10:22:13.085Z",
+              "WhenOpened": "2025-07-23T13:33:14.267Z",
               "EditorCaption": ""
             }
           ]

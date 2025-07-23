@@ -1,0 +1,6 @@
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.dll
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.pdb
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.dll
+E:\WIPROSkillingPrograms\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.pdb

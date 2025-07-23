@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{803FBB52-397B-48C6-8693-C8F3FFA4DC09}</ProjectGuid>
+    <ProjectGuid>{B0D5EA32-2DA6-42AE-9DE0-DA5FD29715CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day3Topics</RootNamespace>
-    <AssemblyName>Day3Topics</AssemblyName>
+    <RootNamespace>CalculationClient</RootNamespace>
+    <AssemblyName>CalculationClient</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day3Topics.ToString_and_ObjectArray</StartupObject>
+    <StartupObject>CalculationClient.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CalculationLibrary">
+      <HintPath>..\CalculationLibrary\bin\Debug\CalculationLibrary.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,20 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="A_2darray.cs" />
-    <Compile Include="B_JaggedArray.cs" />
-    <Compile Include="C_ObjRef.cs" />
-    <Compile Include="D_StringDemo.cs" />
-    <Compile Include="E_ReferenceExample.cs" />
-    <Compile Include="F_FactorialRefEg.cs" />
-    <Compile Include="G_MethodOverloadEg.cs" />
-    <Compile Include="H_ConstructorEg.cs" />
-    <Compile Include="InheritanceConstructorEg.cs" />
-    <Compile Include="InhertianceEg1.cs" />
-    <Compile Include="MethodOverriding.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ShadowingEg.cs" />
-    <Compile Include="ToString_and_ObjectArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
