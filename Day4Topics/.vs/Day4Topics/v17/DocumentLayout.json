@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day4Topics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\i_interfaceswithsamemethodname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\i_interfaceswithsamemethodname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\e_absractclasseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\e_absractclasseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\f_abstractconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\f_abstractconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\g_interfaceeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\g_interfaceeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\h_multipleinterfaceseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\h_multipleinterfaceseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\d_extensioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\d_extensioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\a_staticvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\a_staticvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\b_staticmethodprgrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\b_staticmethodprgrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|e:\\wiproskillingprograms\\day4topics\\day4topics\\c_staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D36CA66-7B84-4F6E-A67D-B72B96EE8A6F}|Day4Topics\\Day4Topics.csproj|solutionrelative:day4topics\\c_staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "I_InterfacesWithSameMethodName.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\I_InterfacesWithSameMethodName.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\I_InterfacesWithSameMethodName.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\I_InterfacesWithSameMethodName.cs",
+              "RelativeToolTip": "Day4Topics\\I_InterfacesWithSameMethodName.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:23:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "H_MultipleInterfacesEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\H_MultipleInterfacesEg.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\H_MultipleInterfacesEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\H_MultipleInterfacesEg.cs",
+              "RelativeToolTip": "Day4Topics\\H_MultipleInterfacesEg.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:12:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "G_InterfaceEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\G_InterfaceEg.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\G_InterfaceEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\G_InterfaceEg.cs",
+              "RelativeToolTip": "Day4Topics\\G_InterfaceEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:03:22.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_AbstractConst.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\F_AbstractConst.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\F_AbstractConst.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\F_AbstractConst.cs",
+              "RelativeToolTip": "Day4Topics\\F_AbstractConst.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:47:19.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E_AbsractClassEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\E_AbsractClassEg.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\E_AbsractClassEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\E_AbsractClassEg.cs",
+              "RelativeToolTip": "Day4Topics\\E_AbsractClassEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:23:22.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D_ExtensionEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\D_ExtensionEg.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\D_ExtensionEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\D_ExtensionEg.cs",
+              "RelativeToolTip": "Day4Topics\\D_ExtensionEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:59:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "C_StaticClass.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\C_StaticClass.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\C_StaticClass.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\C_StaticClass.cs",
+              "RelativeToolTip": "Day4Topics\\C_StaticClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:54:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "B_StaticMethodPrgrm.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\B_StaticMethodPrgrm.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\B_StaticMethodPrgrm.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\B_StaticMethodPrgrm.cs",
+              "RelativeToolTip": "Day4Topics\\B_StaticMethodPrgrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:50:03.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A_StaticVariables.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\A_StaticVariables.cs",
+              "RelativeDocumentMoniker": "Day4Topics\\A_StaticVariables.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4Topics\\Day4Topics\\A_StaticVariables.cs",
+              "RelativeToolTip": "Day4Topics\\A_StaticVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:33:08.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\a_divisionexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\a_divisionexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\b_arrayexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\b_arrayexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\c_stringexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\c_stringexceptioneg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\d_quizeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\d_quizeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\e_throweg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\e_throweg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\f_customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|solutionrelative:day4topicspart2\\f_customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day4TopicsPart2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FBEBE2-12CE-4C69-99BC-0664720CF7A2}|Day4TopicsPart2\\Day4TopicsPart2.csproj|e:\\wiproskillingprograms\\day4topicspart2\\day4topicspart2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F_CustomException.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\F_CustomException.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\F_CustomException.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\F_CustomException.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\F_CustomException.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:33:15.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "E_ThrowEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\E_ThrowEg.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\E_ThrowEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\E_ThrowEg.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\E_ThrowEg.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:14:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_QuizEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\D_QuizEg.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\D_QuizEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\D_QuizEg.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\D_QuizEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:08:07.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_StringExceptionEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\C_StringExceptionEg.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\C_StringExceptionEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\C_StringExceptionEg.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\C_StringExceptionEg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:55:04.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "B_ArrayExceptionEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\B_ArrayExceptionEg.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\B_ArrayExceptionEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\B_ArrayExceptionEg.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\B_ArrayExceptionEg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:27:02.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Day4TopicsPart2",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\Day4TopicsPart2.csproj",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\Day4TopicsPart2.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\Day4TopicsPart2.csproj",
+              "RelativeToolTip": "Day4TopicsPart2\\Day4TopicsPart2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T10:25:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A_DivisionExceptionEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\A_DivisionExceptionEg.cs",
+              "RelativeDocumentMoniker": "Day4TopicsPart2\\A_DivisionExceptionEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day4TopicsPart2\\Day4TopicsPart2\\A_DivisionExceptionEg.cs",
+              "RelativeToolTip": "Day4TopicsPart2\\A_DivisionExceptionEg.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:18:49.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
