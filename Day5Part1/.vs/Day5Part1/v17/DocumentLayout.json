@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day5Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day5Part1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\f_outparameterseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\f_outparameterseg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\e_collectionsstackeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\e_collectionsstackeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\d_arraylisteg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\d_arraylisteg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\c_collectionarraylisteg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\c_collectionarraylisteg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\b_propertiesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\b_propertiesexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\a_filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|solutionrelative:day5part1\\a_filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5475CF-590B-4AAC-AD27-B08AF5A0A092}|Day5Part1\\Day5Part1.csproj|e:\\wiproskillingprograms\\day5part1\\day5part1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_OutParametersEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\F_OutParametersEg.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\F_OutParametersEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\F_OutParametersEg.cs",
+              "RelativeToolTip": "Day5Part1\\F_OutParametersEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:42:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "E_CollectionsStackEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\E_CollectionsStackEg.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\E_CollectionsStackEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\E_CollectionsStackEg.cs",
+              "RelativeToolTip": "Day5Part1\\E_CollectionsStackEg.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:35:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D_ArrayListEg2.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\D_ArrayListEg2.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\D_ArrayListEg2.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\D_ArrayListEg2.cs",
+              "RelativeToolTip": "Day5Part1\\D_ArrayListEg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:23:07.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C_CollectionArrayListEg1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\C_CollectionArrayListEg1.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\C_CollectionArrayListEg1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\C_CollectionArrayListEg1.cs",
+              "RelativeToolTip": "Day5Part1\\C_CollectionArrayListEg1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:10:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B_PropertiesExample.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\B_PropertiesExample.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\B_PropertiesExample.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\B_PropertiesExample.cs",
+              "RelativeToolTip": "Day5Part1\\B_PropertiesExample.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:42:18.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day5Part1",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\Day5Part1.csproj",
+              "RelativeDocumentMoniker": "Day5Part1\\Day5Part1.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\Day5Part1.csproj",
+              "RelativeToolTip": "Day5Part1\\Day5Part1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:31:52.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A_FilterException.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\A_FilterException.cs",
+              "RelativeDocumentMoniker": "Day5Part1\\A_FilterException.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day5Part1\\Day5Part1\\A_FilterException.cs",
+              "RelativeToolTip": "Day5Part1\\A_FilterException.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:15:39.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

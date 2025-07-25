@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\bin\Debug\Day5Part1.exe.config
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\bin\Debug\Day5Part1.exe
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\bin\Debug\Day5Part1.pdb
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\obj\Debug\Day5Part1.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\obj\Debug\Day5Part1.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\obj\Debug\Day5Part1.exe
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\obj\Debug\Day5Part1.pdb
+E:\WIPROSkillingPrograms\Day5Part1\Day5Part1\obj\Debug\Day5Part1.exe.config
