@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32513F23-AF97-4A7C-8C19-A21E9C45CDE3}|EMP_DAO\\EMP_DAO.csproj|E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\emp_dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32513F23-AF97-4A7C-8C19-A21E9C45CDE3}|EMP_DAO\\EMP_DAO.csproj|solutionrelative:emp_dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC2A9C-8B36-450B-970E-9336FA308EE7}|EMP_User\\EMP_User.csproj|e:\\wiproskillingprograms\\emp_project\\emp_class\\emp_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC2A9C-8B36-450B-970E-9336FA308EE7}|EMP_User\\EMP_User.csproj|solutionrelative:emp_user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32513F23-AF97-4A7C-8C19-A21E9C45CDE3}|EMP_DAO\\EMP_DAO.csproj|E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\emp_dao\\itfemployee_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32513F23-AF97-4A7C-8C19-A21E9C45CDE3}|EMP_DAO\\EMP_DAO.csproj|solutionrelative:emp_dao\\itfemployee_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39BF2CD5-F497-4C1D-A81C-4FA3E27698B5}|EMP_BAL\\EMP_BAL.csproj|E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\emp_bal\\employee_bal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39BF2CD5-F497-4C1D-A81C-4FA3E27698B5}|EMP_BAL\\EMP_BAL.csproj|solutionrelative:emp_bal\\employee_bal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A911B317-ADBE-404C-9B8E-449904BECDD2}|EMP_Class\\EMP_Class.csproj|E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\emp_class\\employee_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A911B317-ADBE-404C-9B8E-449904BECDD2}|EMP_Class\\EMP_Class.csproj|solutionrelative:emp_class\\employee_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB58697F-4F1A-4C55-B0B2-D98CA425312D}|EMP_Exception\\EMP_Exception.csproj|E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\emp_exception\\employee_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB58697F-4F1A-4C55-B0B2-D98CA425312D}|EMP_Exception\\EMP_Exception.csproj|solutionrelative:emp_exception\\employee_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_User\\Program.cs",
+              "RelativeDocumentMoniker": "EMP_User\\Program.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_User\\Program.cs",
+              "RelativeToolTip": "EMP_User\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:53:08.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee_Bal.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_BAL\\Employee_Bal.cs",
+              "RelativeDocumentMoniker": "EMP_BAL\\Employee_Bal.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_BAL\\Employee_Bal.cs",
+              "RelativeToolTip": "EMP_BAL\\Employee_Bal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:53:00.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDAO.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_DAO\\EmployeeDAO.cs",
+              "RelativeDocumentMoniker": "EMP_DAO\\EmployeeDAO.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_DAO\\EmployeeDAO.cs",
+              "RelativeToolTip": "EMP_DAO\\EmployeeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:57.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItfEmployee_DAO.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_DAO\\ItfEmployee_DAO.cs",
+              "RelativeDocumentMoniker": "EMP_DAO\\ItfEmployee_DAO.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_DAO\\ItfEmployee_DAO.cs",
+              "RelativeToolTip": "EMP_DAO\\ItfEmployee_DAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:56.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_Exception.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_Exception\\Employee_Exception.cs",
+              "RelativeDocumentMoniker": "EMP_Exception\\Employee_Exception.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_Exception\\Employee_Exception.cs",
+              "RelativeToolTip": "EMP_Exception\\Employee_Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:49.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee_Class.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_Class\\Employee_Class.cs",
+              "RelativeDocumentMoniker": "EMP_Class\\Employee_Class.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\EMP_Project\\EMP_Class\\EMP_Class\\Employee_Class.cs",
+              "RelativeToolTip": "EMP_Class\\Employee_Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:25.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

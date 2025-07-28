@@ -1,0 +1,17 @@
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_User.exe.config
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_User.exe
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_User.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_BAL.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_Class.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_DAO.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_Exception.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_BAL.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_Class.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_DAO.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\bin\Debug\EMP_Exception.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.csproj.Up2Date
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.exe
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_User\obj\Debug\EMP_User.exe.config

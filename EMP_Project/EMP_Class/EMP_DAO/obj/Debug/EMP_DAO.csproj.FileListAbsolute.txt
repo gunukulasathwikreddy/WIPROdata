@@ -1,0 +1,9 @@
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\bin\Debug\EMP_DAO.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\bin\Debug\EMP_DAO.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\bin\Debug\EMP_Class.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\bin\Debug\EMP_Class.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\obj\Debug\EMP_DAO.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\obj\Debug\EMP_DAO.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\obj\Debug\EMP_DAO.csproj.Up2Date
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\obj\Debug\EMP_DAO.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_DAO\obj\Debug\EMP_DAO.pdb

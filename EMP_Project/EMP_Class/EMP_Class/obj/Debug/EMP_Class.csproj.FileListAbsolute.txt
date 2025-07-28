@@ -1,0 +1,6 @@
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\obj\Debug\EMP_Class.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\obj\Debug\EMP_Class.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\bin\Debug\EMP_Class.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\bin\Debug\EMP_Class.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\obj\Debug\EMP_Class.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Class\obj\Debug\EMP_Class.pdb

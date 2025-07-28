@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\bin\Debug\Day7Part2Reflections.exe.config
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\bin\Debug\Day7Part2Reflections.exe
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\bin\Debug\Day7Part2Reflections.pdb
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\obj\Debug\Day7Part2Reflections.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\obj\Debug\Day7Part2Reflections.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\obj\Debug\Day7Part2Reflections.exe
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\obj\Debug\Day7Part2Reflections.pdb
+E:\WIPROSkillingPrograms\Day7Part2Reflections\Day7Part2Reflections\obj\Debug\Day7Part2Reflections.exe.config

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4651B2-1541-490B-BAF8-AADEC930C88C}|Day7part3LamdaExp\\Day7part3LamdaExp.csproj|e:\\wiproskillingprograms\\day7part3lamdaexp\\day7part3lamdaexp\\b_sortingexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4651B2-1541-490B-BAF8-AADEC930C88C}|Day7part3LamdaExp\\Day7part3LamdaExp.csproj|solutionrelative:day7part3lamdaexp\\b_sortingexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4651B2-1541-490B-BAF8-AADEC930C88C}|Day7part3LamdaExp\\Day7part3LamdaExp.csproj|e:\\wiproskillingprograms\\day7part3lamdaexp\\day7part3lamdaexp\\a_lambdaexpeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4651B2-1541-490B-BAF8-AADEC930C88C}|Day7part3LamdaExp\\Day7part3LamdaExp.csproj|solutionrelative:day7part3lamdaexp\\a_lambdaexpeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day7part3LamdaExp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4651B2-1541-490B-BAF8-AADEC930C88C}|Day7part3LamdaExp\\Day7part3LamdaExp.csproj|e:\\wiproskillingprograms\\day7part3lamdaexp\\day7part3lamdaexp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Day7part3LamdaExp",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\Day7part3LamdaExp.csproj",
+              "RelativeDocumentMoniker": "Day7part3LamdaExp\\Day7part3LamdaExp.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\Day7part3LamdaExp.csproj",
+              "RelativeToolTip": "Day7part3LamdaExp\\Day7part3LamdaExp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-28T11:39:28.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B_SortingExamples.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\B_SortingExamples.cs",
+              "RelativeDocumentMoniker": "Day7part3LamdaExp\\B_SortingExamples.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\B_SortingExamples.cs",
+              "RelativeToolTip": "Day7part3LamdaExp\\B_SortingExamples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:31:58.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A_LambdaExpEg1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\A_LambdaExpEg1.cs",
+              "RelativeDocumentMoniker": "Day7part3LamdaExp\\A_LambdaExpEg1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day7part3LamdaExp\\Day7part3LamdaExp\\A_LambdaExpEg1.cs",
+              "RelativeToolTip": "Day7part3LamdaExp\\A_LambdaExpEg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:03:38.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

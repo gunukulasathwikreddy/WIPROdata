@@ -1,0 +1,6 @@
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\bin\Debug\EMP_Exception.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\bin\Debug\EMP_Exception.pdb
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\obj\Debug\EMP_Exception.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\obj\Debug\EMP_Exception.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\obj\Debug\EMP_Exception.dll
+E:\WIPROSkillingPrograms\EMP_Project\EMP_Class\EMP_Exception\obj\Debug\EMP_Exception.pdb

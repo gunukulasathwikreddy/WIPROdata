@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\bin\Debug\Day7part3LamdaExp.exe.config
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\bin\Debug\Day7part3LamdaExp.exe
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\bin\Debug\Day7part3LamdaExp.pdb
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\obj\Debug\Day7part3LamdaExp.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\obj\Debug\Day7part3LamdaExp.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\obj\Debug\Day7part3LamdaExp.exe
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\obj\Debug\Day7part3LamdaExp.pdb
+E:\WIPROSkillingPrograms\Day7part3LamdaExp\Day7part3LamdaExp\obj\Debug\Day7part3LamdaExp.exe.config
