@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7143F5B3-84AA-4363-BAD2-705F7AFB05CE}|..\\DemoProject.Tests\\DemoProject.Tests.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject.tests\\employtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject\\demoproject\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject\\demoproject\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7143F5B3-84AA-4363-BAD2-705F7AFB05CE}|..\\DemoProject.Tests\\DemoProject.Tests.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject.tests\\demotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject\\demoproject\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F504F3D4-4EFC-4DCE-B304-8453DDE473D3}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7143F5B3-84AA-4363-BAD2-705F7AFB05CE}|..\\DemoProject.Tests\\DemoProject.Tests.csproj|e:\\wiproskillingprograms\\day9part1testing\\demoproject.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\EmployDao.cs",
+              "RelativeDocumentMoniker": "DemoProject\\EmployDao.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\EmployDao.cs",
+              "RelativeToolTip": "DemoProject\\EmployDao.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:51:54.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployTests.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\EmployTests.cs",
+              "RelativeDocumentMoniker": "..\\DemoProject.Tests\\EmployTests.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\EmployTests.cs",
+              "RelativeToolTip": "..\\DemoProject.Tests\\EmployTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:50:45.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\Employ.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Employ.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\Employ.cs",
+              "RelativeToolTip": "DemoProject\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:46:31.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoTests.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\DemoTests.cs",
+              "RelativeDocumentMoniker": "..\\DemoProject.Tests\\DemoTests.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\DemoTests.cs",
+              "RelativeToolTip": "..\\DemoProject.Tests\\DemoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:39:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\DemoProject.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\DemoProject.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:35:49.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\Demo.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Demo.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Testing\\DemoProject\\DemoProject\\Demo.cs",
+              "RelativeToolTip": "DemoProject\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:20:23.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

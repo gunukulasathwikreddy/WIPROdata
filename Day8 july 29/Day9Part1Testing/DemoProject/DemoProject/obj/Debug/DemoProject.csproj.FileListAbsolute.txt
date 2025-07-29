@@ -1,0 +1,6 @@
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\bin\Debug\DemoProject.dll
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\obj\Debug\DemoProject.dll
+E:\WIPROSkillingPrograms\Day9Part1Testing\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
