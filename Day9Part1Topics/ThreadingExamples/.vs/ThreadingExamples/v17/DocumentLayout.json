@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79848956-4D1B-4634-983D-2C28F708F429}|ThreadingExamples\\ThreadingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\threadingexamples\\threadingexamples\\syncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79848956-4D1B-4634-983D-2C28F708F429}|ThreadingExamples\\ThreadingExamples.csproj|solutionrelative:threadingexamples\\syncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ThreadingExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79848956-4D1B-4634-983D-2C28F708F429}|ThreadingExamples\\ThreadingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\threadingexamples\\threadingexamples\\threadexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79848956-4D1B-4634-983D-2C28F708F429}|ThreadingExamples\\ThreadingExamples.csproj|solutionrelative:threadingexamples\\threadexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79848956-4D1B-4634-983D-2C28F708F429}|ThreadingExamples\\ThreadingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\threadingexamples\\threadingexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SyncExample.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\SyncExample.cs",
+              "RelativeDocumentMoniker": "ThreadingExamples\\SyncExample.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\SyncExample.cs",
+              "RelativeToolTip": "ThreadingExamples\\SyncExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:23:25.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThreadingExamples",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\ThreadingExamples.csproj",
+              "RelativeDocumentMoniker": "ThreadingExamples\\ThreadingExamples.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\ThreadingExamples.csproj",
+              "RelativeToolTip": "ThreadingExamples\\ThreadingExamples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T06:21:51.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadExample1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\ThreadExample1.cs",
+              "RelativeDocumentMoniker": "ThreadingExamples\\ThreadExample1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\ThreadingExamples\\ThreadingExamples\\ThreadExample1.cs",
+              "RelativeToolTip": "ThreadingExamples\\ThreadExample1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:16:47.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

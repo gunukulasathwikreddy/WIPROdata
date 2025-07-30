@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\nullableexamples\\nullableexamples\\c_nullablecoalescingeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|solutionrelative:nullableexamples\\c_nullablecoalescingeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NullableExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\nullableexamples\\nullableexamples\\b_nullableeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|solutionrelative:nullableexamples\\b_nullableeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\nullableexamples\\nullableexamples\\a_nullableex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|solutionrelative:nullableexamples\\a_nullableex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BEE261-2B18-49A3-93EF-138D75B4D3E8}|NullableExamples\\NullableExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\nullableexamples\\nullableexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C_NullableCoalescingEg.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\C_NullableCoalescingEg.cs",
+              "RelativeDocumentMoniker": "NullableExamples\\C_NullableCoalescingEg.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\C_NullableCoalescingEg.cs",
+              "RelativeToolTip": "NullableExamples\\C_NullableCoalescingEg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:27:42.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "B_NullableEg2.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\B_NullableEg2.cs",
+              "RelativeDocumentMoniker": "NullableExamples\\B_NullableEg2.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\B_NullableEg2.cs",
+              "RelativeToolTip": "NullableExamples\\B_NullableEg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:15:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NullableExamples",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\NullableExamples.csproj",
+              "RelativeDocumentMoniker": "NullableExamples\\NullableExamples.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\NullableExamples.csproj",
+              "RelativeToolTip": "NullableExamples\\NullableExamples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T05:12:22.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A_NullableEx1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\A_NullableEx1.cs",
+              "RelativeDocumentMoniker": "NullableExamples\\A_NullableEx1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\NullableExamples\\NullableExamples\\A_NullableEx1.cs",
+              "RelativeToolTip": "NullableExamples\\A_NullableEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:07:04.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\bin\Debug\IndexingExamples.exe.config
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\bin\Debug\IndexingExamples.exe
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\bin\Debug\IndexingExamples.pdb
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\obj\Debug\IndexingExamples.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\obj\Debug\IndexingExamples.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\obj\Debug\IndexingExamples.exe
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\obj\Debug\IndexingExamples.pdb
+E:\WIPROSkillingPrograms\Day9Part1Topics\IndexingExamples\IndexingExamples\obj\Debug\IndexingExamples.exe.config

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{597B57C9-122E-4185-B5F7-4B7EFD07F6F4}|IndexingExamples\\IndexingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\indexingexamples\\indexingexamples\\indexeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B57C9-122E-4185-B5F7-4B7EFD07F6F4}|IndexingExamples\\IndexingExamples.csproj|solutionrelative:indexingexamples\\indexeg2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IndexingExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B57C9-122E-4185-B5F7-4B7EFD07F6F4}|IndexingExamples\\IndexingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\indexingexamples\\indexingexamples\\indexeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B57C9-122E-4185-B5F7-4B7EFD07F6F4}|IndexingExamples\\IndexingExamples.csproj|solutionrelative:indexingexamples\\indexeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B57C9-122E-4185-B5F7-4B7EFD07F6F4}|IndexingExamples\\IndexingExamples.csproj|e:\\wiproskillingprograms\\day9part1topics\\indexingexamples\\indexingexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexEg2.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexEg2.cs",
+              "RelativeDocumentMoniker": "IndexingExamples\\IndexEg2.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexEg2.cs",
+              "RelativeToolTip": "IndexingExamples\\IndexEg2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:06:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexingExamples",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexingExamples.csproj",
+              "RelativeDocumentMoniker": "IndexingExamples\\IndexingExamples.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexingExamples.csproj",
+              "RelativeToolTip": "IndexingExamples\\IndexingExamples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T06:04:22.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexEg1.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexEg1.cs",
+              "RelativeDocumentMoniker": "IndexingExamples\\IndexEg1.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part1Topics\\IndexingExamples\\IndexingExamples\\IndexEg1.cs",
+              "RelativeToolTip": "IndexingExamples\\IndexEg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:51:51.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

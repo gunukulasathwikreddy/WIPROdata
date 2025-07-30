@@ -1,0 +1,18 @@
+﻿@page
+@model CoreDemo.Pages.EmployeeShowModel
+<h3>EMP DATA</h3>
+<table border="3">
+    <tr>
+        <th>EMPNum</th>
+        <th>Name</th>
+        <th>Basic</th>
+    </tr>
+    @foreach(var emp in Model.EmpList)
+    {
+        <tr>
+            <td>@emp.Empno</td>
+            <td>@emp.Name</td>
+            <td>@emp.Basic</td>
+        </tr>
+    }
+</table>

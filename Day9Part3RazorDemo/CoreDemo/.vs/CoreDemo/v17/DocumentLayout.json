@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\wipro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\employeeshow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\employeeshow.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\employeeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\employeeshow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|e:\\wiproskillingprograms\\day9part3razordemo\\coredemo\\coredemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6C62974-6054-4455-8724-238048547D23}|CoreDemo\\CoreDemo.csproj|solutionrelative:coredemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeShow.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\EmployeeShow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T13:21:35.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeShow.cshtml.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "RelativeToolTip": "CoreDemo\\Pages\\EmployeeShow.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T13:18:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CoreDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "CoreDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T10:30:34.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:56:32.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wipro.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Wipro.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Wipro.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\Wipro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:50:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:47:22.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoreDemo\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day9Part3RazorDemo\\CoreDemo\\CoreDemo\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoreDemo\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T09:47:20.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
