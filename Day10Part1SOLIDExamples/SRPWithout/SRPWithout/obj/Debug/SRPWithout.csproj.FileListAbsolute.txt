@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\bin\Debug\SRPWithout.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\bin\Debug\SRPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\bin\Debug\SRPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\obj\Debug\SRPWithout.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\obj\Debug\SRPWithout.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\obj\Debug\SRPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\obj\Debug\SRPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWithout\SRPWithout\obj\Debug\SRPWithout.exe.config

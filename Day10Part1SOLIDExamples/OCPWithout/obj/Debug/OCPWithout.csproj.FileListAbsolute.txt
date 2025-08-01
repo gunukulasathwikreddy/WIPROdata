@@ -1,0 +1,7 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\bin\Debug\OCPWithout.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\bin\Debug\OCPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\bin\Debug\OCPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\obj\Debug\OCPWithout.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\obj\Debug\OCPWithout.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\obj\Debug\OCPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWithout\obj\Debug\OCPWithout.pdb

@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\bin\Debug\ISPWithout.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\bin\Debug\ISPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\bin\Debug\ISPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\obj\Debug\ISPWithout.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\obj\Debug\ISPWithout.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\obj\Debug\ISPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\obj\Debug\ISPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\ISPWithout\obj\Debug\ISPWithout.exe.config

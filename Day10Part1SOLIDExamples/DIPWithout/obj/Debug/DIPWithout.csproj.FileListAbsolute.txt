@@ -1,0 +1,7 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\bin\Debug\DIPWithout.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\bin\Debug\DIPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\bin\Debug\DIPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\obj\Debug\DIPWithout.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\obj\Debug\DIPWithout.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\obj\Debug\DIPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\DIPWithout\obj\Debug\DIPWithout.pdb

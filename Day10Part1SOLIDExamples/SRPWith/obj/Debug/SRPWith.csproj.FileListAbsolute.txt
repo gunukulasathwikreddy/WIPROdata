@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\bin\Debug\SRPWith.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\bin\Debug\SRPWith.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\bin\Debug\SRPWith.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\obj\Debug\SRPWith.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\obj\Debug\SRPWith.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\obj\Debug\SRPWith.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\obj\Debug\SRPWith.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\SRPWith\obj\Debug\SRPWith.exe.config

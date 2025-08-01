@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\SRPWithout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OCPWith||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\dotnettraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\javatraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\pythontraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\datasciencetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05E30C18-69AB-479A-95BE-94A61E5A2C97}|..\\OCPWith\\OCPWith.csproj|e:\\wiproskillingprograms\\day10part1solidexamples\\ocpwith\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OCPWith",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\OCPWith.csproj",
+              "RelativeDocumentMoniker": "..\\OCPWith\\OCPWith.csproj",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\OCPWith.csproj*",
+              "RelativeToolTip": "..\\OCPWith\\OCPWith.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-31T09:23:19.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataScienceTraining.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\DataScienceTraining.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\DataScienceTraining.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\DataScienceTraining.cs",
+              "RelativeToolTip": "..\\OCPWith\\DataScienceTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:19:40.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PythonTraining.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\PythonTraining.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\PythonTraining.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\PythonTraining.cs",
+              "RelativeToolTip": "..\\OCPWith\\PythonTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:19:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaTraining.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\JavaTraining.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\JavaTraining.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\JavaTraining.cs",
+              "RelativeToolTip": "..\\OCPWith\\JavaTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:18:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DotnetTraining.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\DotnetTraining.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\DotnetTraining.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\DotnetTraining.cs",
+              "RelativeToolTip": "..\\OCPWith\\DotnetTraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:18:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITraining.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\ITraining.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\ITraining.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\ITraining.cs",
+              "RelativeToolTip": "..\\OCPWith\\ITraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:29:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OCPWith\\Program.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day10Part1SOLIDExamples\\OCPWith\\Program.cs",
+              "RelativeToolTip": "..\\OCPWith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:27:08.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

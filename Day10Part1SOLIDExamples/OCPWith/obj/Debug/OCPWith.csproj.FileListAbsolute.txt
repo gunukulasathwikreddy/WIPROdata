@@ -1,0 +1,7 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\bin\Debug\OCPWith.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\bin\Debug\OCPWith.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\bin\Debug\OCPWith.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\obj\Debug\OCPWith.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\obj\Debug\OCPWith.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\obj\Debug\OCPWith.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\OCPWith\obj\Debug\OCPWith.pdb

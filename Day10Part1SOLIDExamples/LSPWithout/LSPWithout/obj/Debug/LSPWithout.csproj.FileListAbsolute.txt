@@ -1,0 +1,8 @@
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\bin\Debug\LSPWithout.exe.config
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\bin\Debug\LSPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\bin\Debug\LSPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\obj\Debug\LSPWithout.csproj.AssemblyReference.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\obj\Debug\LSPWithout.csproj.CoreCompileInputs.cache
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\obj\Debug\LSPWithout.exe
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\obj\Debug\LSPWithout.pdb
+E:\WIPROSkillingPrograms\Day10Part1SOLIDExamples\LSPWithout\LSPWithout\obj\Debug\LSPWithout.exe.config
