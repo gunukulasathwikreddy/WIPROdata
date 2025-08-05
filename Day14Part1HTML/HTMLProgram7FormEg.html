@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Form Example</title>
+</head>
+
+<body>
+    <form name="frmData">
+        <center>
+            First Name : <input type="text" name="firstName" required placeholder="Enter First Name" autofocus /> <br/><br/>
+            Last Name  : <input type="text" name="lastName"  required placeholder="Enter Last Name" /> <br/><br/>
+            Full Name  : <input type="text" name="fullName" readonly /> <br/><br/>
+
+            Age        : <input type="number" name="age" min="1" max="100" placeholder="Enter Age" required /> <br/><br/>
+            Salary     : <input type="number" name="salary" min="1000" max="50000" placeholder="Enter Salary" required/> <br/><br/>
+
+            Status     : <input type="checkbox" name="chkStatus" /> <br/><br/> 
+            Gender     : <input type="radio" name="gender" value="Male" /> Male 
+                         <input type="radio" name="gender" value="Female" /> Female <br/><br/>
+
+            Time       : <input type="time" value="btime" /> <br/><br/>
+            Month      : <input type="month" value="Month" /> <br/><br/>
+            Date       : <input type="date" value="dob" /> <br/><br/>
+            Email      : <input type="email" value="Email" /> <br/><br/>
+            Url        : <input type="url" value="Url" /> <br/><br/>
+
+
+            Dept       : 
+            <select name="name">
+                <option value="Dotnet">Dotnet</option>
+                <option value="Java">Java</option>
+                <option value="Sql">Sql</option>
+                <option value="React">React</option>
+                <option value="ASP">ASP</option>
+            </select> <br></br>
+
+
+                          <input type="submit" value="Show" />
+        </center>
+    </form>
+    
+</body>
+
+</html>
