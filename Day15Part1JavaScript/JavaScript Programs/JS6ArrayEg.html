@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <script>
+             function show() {
+                var res = "";
+               var myArray = ["Sachin Tendulkar","Kane Williamson","Bhuvneshwar Kumar","Jasprit Bumrah",
+                "Yashasvi Jaiswal","Nitish Kumar Reddy"
+               ];
+               for(var v in myArray) {
+                    res +=myArray[v] + "<br/>";
+               }
+               document.getElementById("res").innerHTML = res;
+
+               var res1 = "";
+               var myArray1 = new Array("Batsman","Bowler","Wicket Keeper"
+               );
+               for(var v in myArray1) {
+                    res1 += myArray1[v] + "<br/>";
+               }
+               document.getElementById("res1").innerHTML = res1;
+            }
+        </script>
+    </head>
+<body onload="show()">
+    <span id="res"></span>
+    <br></br>
+    <span id="res1"></span>
+</body>
+</html>
