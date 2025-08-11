@@ -1,0 +1,134 @@
+Foe installing react :-
+
+npm install -g create-react-app
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For installing component generator in react project :-
+
+npm install -g reactjs-component-generator
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+for creating a component in react project :-
+
+rg component first -f
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sample Database for Database connection demo using ASP.Net :-
+
+(Already available in wiprojuly database in SSMS)
+
+use wiprojuly
+GO
+
+create table Employ
+(
+	Empno int primary key,
+	name varchar(30),
+	gender varchar(10),
+	dept varchar(30),
+	desig varchar(30),
+	basic numeric(9,2)
+)
+GO
+
+Insert into Employ values(1,'Ajay','Male','Dotnet','Programmer',88233),
+   (2,'Kaviya','Female','Angular','Expert',82344),
+   (3,'Monesha','Female','React','Manager',83234),
+   (4,'Arul','Female','Angular','Manager',88211),
+   (5,'Gopal','Male','Java','Manager',88112) 
+   GO
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For Employ Class in Models Folder in .NET Project for database connection :-
+
+[Key]
+        public int Empno { get; set; }
+        public string? Name { get; set; }
+        public string? Gender { get; set; }
+        public string? Dept { get; set; }
+
+        public string? Desig { get; set; }
+
+        public decimal Basic { get; set; }
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For EFCoreDbContext Class in Models Folder in .NET Project for database connection :-
+
+
+//Constructor calling the Base DbContext Class Constructor
+  public EFCoreDbContext(DbContextOptions<EFCoreDbContext> options) : base(options)
+  {
+  }
+  //OnConfiguring() method is used to select and configure the data source
+  protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+  {
+
+  }
+  protected override void OnModelCreating(ModelBuilder modelBuilder)
+  {
+      modelBuilder.Entity<Employ>().ToTable("Employ");
+  }
+
+  public DbSet<Employ> Employees { get; set; }
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For appsettings.json file in .NET Project for database connection :-
+
+
+"ConnectionStrings": {
+     "EFCoreDBConnection": "server=DESKTOP-8JNDTKD;database=wiprojuly;Trusted_Connection=True;TrustServerCertificate=True;"
+ }
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For Program.cs file in .NET Project for database connection :-
+
+
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder => {
+        builder.AllowAnyOrigin();
+        builder.AllowAnyMethod();
+        builder.AllowAnyHeader();
+    });
+});
+// Add services to the container.
+
+builder.Services.AddControllers();
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+//Configure the ConnectionString and DbContext class
+builder.Services.AddDbContext<EFCoreDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("EFCoreDBConnection"));
+});
+
+
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseCors();
+
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
+
+
