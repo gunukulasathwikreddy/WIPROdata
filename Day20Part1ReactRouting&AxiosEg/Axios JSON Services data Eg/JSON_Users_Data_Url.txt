@@ -1,0 +1,4 @@
+
+JSON users data url :-
+
+https://jsonplaceholder.typicode.com/users
