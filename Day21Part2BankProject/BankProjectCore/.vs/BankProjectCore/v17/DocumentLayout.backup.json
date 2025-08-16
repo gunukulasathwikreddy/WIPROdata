@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\bankcustomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\middleware\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\bankdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\trans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|e:\\wiproskillingprograms\\day21part2bankproject\\bankprojectcore\\bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148834FC-CC41-4554-9E37-B63659EBA67E}|BankProjectCore\\BankProjectCore.csproj|solutionrelative:bankprojectcore\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankCustomController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\BankCustomController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\BankCustomController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:03:27.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\LoginsController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:02:49.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "BankProjectCore\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:02:21.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Program.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Program.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Program.cs",
+              "RelativeToolTip": "BankProjectCore\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:00:06.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\appsettings.json",
+              "RelativeDocumentMoniker": "BankProjectCore\\appsettings.json",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\appsettings.json",
+              "RelativeToolTip": "BankProjectCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T15:57:11.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\SendEmail.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\SendEmail.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\SendEmail.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\SendEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:50:46.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:38:57.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "BankProjectCore\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T15:38:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankDbContext.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\BankDbContext.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\BankDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:33:50.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trans.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Trans.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Trans.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Trans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:33:27.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Login.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Login.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:33:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankProjectCore\\Models\\Account.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day21Part2BankProject\\BankProjectCore\\BankProjectCore\\Models\\Account.cs",
+              "RelativeToolTip": "BankProjectCore\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:29:43.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

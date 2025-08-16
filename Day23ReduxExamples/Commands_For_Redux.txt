@@ -1,0 +1,5 @@
+commands for redux :-
+
+npm install @reduxjs/toolkit react-redux
+
+npm i @testing-library/react @testing-library/jest-dom
