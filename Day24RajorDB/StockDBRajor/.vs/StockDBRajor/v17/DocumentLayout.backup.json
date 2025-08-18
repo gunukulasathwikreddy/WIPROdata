@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|e:\\wiproskillingprograms\\day24rajordb\\stockdbrajor\\stockdbrajor\\pages\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|solutionrelative:stockdbrajor\\pages\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|e:\\wiproskillingprograms\\day24rajordb\\stockdbrajor\\stockdbrajor\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|solutionrelative:stockdbrajor\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|e:\\wiproskillingprograms\\day24rajordb\\stockdbrajor\\stockdbrajor\\pages\\stocks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|solutionrelative:stockdbrajor\\pages\\stocks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|e:\\wiproskillingprograms\\day24rajordb\\stockdbrajor\\stockdbrajor\\pages\\stocks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|solutionrelative:stockdbrajor\\pages\\stocks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|e:\\wiproskillingprograms\\day24rajordb\\stockdbrajor\\stockdbrajor\\pages\\stocks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D26248C-6ADD-4ADB-B25B-CD531627819E}|StockDBRajor\\StockDBRajor.csproj|solutionrelative:stockdbrajor\\pages\\stocks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StockDBRajor\\Models\\Stock.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Models\\Stock.cs",
+              "RelativeToolTip": "StockDBRajor\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:13:42.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Create.cshtml",
+              "RelativeDocumentMoniker": "StockDBRajor\\Pages\\Stocks\\Create.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Create.cshtml",
+              "RelativeToolTip": "StockDBRajor\\Pages\\Stocks\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:34:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "StockDBRajor\\Pages\\Stocks\\Create.cshtml.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Create.cshtml.cs",
+              "RelativeToolTip": "StockDBRajor\\Pages\\Stocks\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:34:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "StockDBRajor\\Pages\\Stocks\\Index.cshtml.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Index.cshtml.cs",
+              "RelativeToolTip": "StockDBRajor\\Pages\\Stocks\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:18:21.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockDBRajor\\Pages\\Stocks\\Index.cshtml",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\Day24RajorDB\\StockDBRajor\\StockDBRajor\\Pages\\Stocks\\Index.cshtml",
+              "RelativeToolTip": "StockDBRajor\\Pages\\Stocks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:18:21.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
