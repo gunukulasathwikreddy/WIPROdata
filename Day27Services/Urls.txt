@@ -1,0 +1,5 @@
+http://localhost:5223/api/Stock
+
+http://localhost:5223/api/APiService
+
+http://localhost:5209/api/APiService
