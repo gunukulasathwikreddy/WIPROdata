@@ -1,0 +1,89 @@
+/* ✅ Page Wrapper */
+.resume-page {
+  min-height: 100vh;       /* full screen */
+  max-height: 100vh;       /* fix scrolling issue */
+  overflow-y: auto;        /* allow vertical scroll */
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+/* ✅ Resume Preview Box */
+.resume-preview {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  max-width: 800px;
+  margin: auto;
+}
+
+/* ✅ Section Headings */
+.resume-preview h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.resume-preview h2 {
+  margin-top: 20px;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 5px;
+  color: #333;
+}
+
+/* ✅ Objective */
+.objective {
+  font-style: italic;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* ✅ Education Items */
+.education-item {
+  margin: 8px 0;
+  padding: 10px 12px;
+  border-left: 4px solid #2196F3;
+  background: #fafafa;
+  border-radius: 4px;
+}
+
+/* ✅ Skills Items */
+.skill-item {
+  margin: 6px 0;
+  padding: 8px 12px;
+  border-left: 4px solid #4CAF50;
+  background: #fafafa;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* ✅ Experience Items */
+.experience-item {
+  margin: 10px 0;
+  padding: 12px 14px;
+  border-left: 4px solid #FF9800;
+  background: #fafafa;
+  border-radius: 4px;
+}
+
+/* ✅ Download Button at Top */
+.download-btn-container.top {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px; /* spacing before resume preview */
+}
+
+.download-btn {
+  background: #4CAF50;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: background 0.2s;
+}
+
+.download-btn:hover {
+  background: #45a049;
+}

@@ -1,0 +1,61 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  width: 500px;
+  max-width: 90%;
+  max-height: 80vh;        /* 🔹 modal never exceeds viewport height */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  position: relative;
+  display: flex;
+  flex-direction: column;  /* 🔹 header + body vertical stack */
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;          /* 🔹 header won’t shrink */
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.close-btn {
+  border: none;
+  background: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #333;
+}
+
+.modal-body {
+  margin-top: 10px;
+  overflow-y: auto;        /* 🔹 scrollable body */
+  flex: 1;                 /* 🔹 take remaining height */
+  padding-right: 5px;      /* 🔹 small space for scrollbar */
+}
+
+/* Optional: nice scrollbar styling */
+.modal-body::-webkit-scrollbar {
+  width: 6px;
+}
+.modal-body::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 3px;
+}
+.modal-body::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}

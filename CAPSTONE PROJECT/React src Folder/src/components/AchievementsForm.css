@@ -1,0 +1,55 @@
+.achievements-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.achievements-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: 14px;
+  color: #333;
+}
+
+.achievements-form input,
+.achievements-form textarea {
+  margin-top: 6px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.achievements-form textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+.achievements-form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.achievements-form-actions button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.achievements-form-actions button[type="submit"] {
+  background: #4caf50;
+  color: white;
+}
+
+.achievements-form-actions button[type="button"] {
+  background: #ccc;
+  color: #333;
+}

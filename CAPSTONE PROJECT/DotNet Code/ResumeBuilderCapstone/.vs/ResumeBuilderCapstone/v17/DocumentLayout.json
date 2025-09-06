@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|e:\\wiproskillingprograms\\capstone\\resumebuildercapstone\\resumebuildercapstone\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380AA248-992F-44FD-B888-233FCC4AA30B}|ResumeBuilderCapstone\\ResumeBuilderCapstone.csproj|solutionrelative:resumebuildercapstone\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:53:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:53:41.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Controllers\\ResumeController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:53:27.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\TestController.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:52:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:48:52.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\Services\\JwtService.cs",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\Services\\JwtService.cs",
+              "RelativeToolTip": "ResumeBuilderCapstone\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:33:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\appsettings.json",
+              "RelativeDocumentMoniker": "ResumeBuilderCapstone\\appsettings.json",
+              "ToolTip": "E:\\WIPROSkillingPrograms\\CAPSTONE\\ResumeBuilderCapstone\\ResumeBuilderCapstone\\appsettings.json",
+              "RelativeToolTip": "ResumeBuilderCapstone\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T05:29:34.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

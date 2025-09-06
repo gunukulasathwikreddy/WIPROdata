@@ -1,0 +1,259 @@
+.user-page {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9fafb;
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header with title + hamburger */
+.user-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1e293b;
+  color: #fff;
+  padding: 15px 20px;
+}
+
+.user-header h1 {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Hamburger icon */
+.hamburger {
+  width: 28px;
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.hamburger span {
+  display: block;
+  height: 3px;
+  background: #fff;
+  border-radius: 2px;
+  transition: 0.3s ease;
+}
+
+/* Hamburger open animation */
+.hamburger.open span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.open span:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
+}
+
+/* Slide-in Sidebar Menu */
+.side-menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 280px;
+  height: 100%;
+  background: #ffffff;
+  box-shadow: -2px 0 6px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  overflow-y: auto;
+  z-index: 1000;
+
+  /* ✅ Hide completely offscreen */
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+}
+
+.side-menu.show {
+  transform: translateX(0);
+}
+
+/* User Profile Card inside menu */
+.profile-card {
+  text-align: left;
+}
+
+.profile-card h2 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #1e293b;
+}
+
+.user-details {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.user-details li {
+  padding: 8px 0;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+
+.user-details strong {
+  color: #1e293b;
+}
+
+/* Action buttons stacked vertically */
+.menu-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.logout-btn,
+.close-btn {
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: 0.2s;
+  width: 100%;
+}
+
+.logout-btn {
+  background: #e63946;
+  color: white;
+}
+
+.logout-btn:hover {
+  background: #c9182b;
+}
+
+.close-btn {
+  background: #2e353e;
+  color: rgb(222, 217, 217);
+}
+
+.close-btn:hover {
+  background: #323942;
+}
+
+/* Main Content */
+.user-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.welcome-text {
+  font-size: 16px;
+  color: #444;
+}
+
+.test-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.test-btn:hover {
+  background-color: #0056b3;
+}
+
+.test-btn-container {
+  margin-left: 600px;  /* adjust this value as needed */
+  margin-top: 40px;
+}
+
+
+
+/* Container for resume list */
+.resume-list {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* Heading */
+.resume-list h2 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Empty message */
+.resume-list p {
+  color: #666;
+}
+
+/* List styling */
+.resume-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Each resume item */
+.resume-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+/* Resume title */
+.resume-item span {
+  font-weight: 500;
+  color: #222;
+}
+
+/* Action buttons */
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.actions button {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+}
+
+/* Different colors for each action */
+.actions button:nth-child(1) {
+  background: #0077cc; /* Preview */
+}
+
+.actions button:nth-child(2) {
+  background: #f0ad4e; /* Edit */
+}
+
+.actions button:nth-child(3) {
+  background: #d9534f; /* Delete */
+}
+
+/* Create Resume link styled as button */
+.create-resume-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 10px 16px;
+  background-color: #0077cc;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.create-resume-link:hover {
+  background-color: #005fa3;
+}

@@ -1,0 +1,108 @@
+.register-page {
+  min-height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #171d3a;
+  padding: 20px;
+  overflow-y: auto;
+  flex-direction: column;
+}
+
+.register-container {
+  background: #fff;
+  padding: 20px 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 600px;   /* reduced width */
+}
+
+.register-container h2 {
+  text-align: center;
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+
+.register-container label {
+  display: inline-block;
+  width: 120px;      /* slightly smaller label */
+  font-size: 14px;
+  text-align: right;
+  margin-right: 8px;
+  margin-bottom: 4px; /* reduce space under labels */
+}
+
+.register-container input,
+.register-container select {
+  padding: 5px 7px;   /* smaller padding inside fields */
+  margin: 3px 0;      /* reduce vertical gap */
+  width: 60%;
+  font-size: 14px;
+}
+
+.note {
+  font-size: 12px;
+  color: red;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.register-btn {
+  display: block;
+  margin: 20px auto 0;     /* centers horizontally */
+  width: 100%;             /* take full width */
+  max-width: 200px;        /* but not too wide */
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  text-align: center;
+  transition: background 0.4s ease, 
+              opacity 0.4s ease, 
+              transform 0.2s ease;
+}
+
+
+.register-btn:hover:not(:disabled) {
+  background: #0056b3;
+  transform: scale(1.03); /* small pop effect */
+}
+
+.register-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+  opacity: 0.7; /* slightly faded */
+}
+
+/* ✅ Center result message below button */
+.result {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 14px;
+  white-space: pre-wrap;  /* keeps line breaks */
+}
+
+.back-home {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.back-home button {
+  color: white;
+  background-color: #6c757d;
+  border: none;
+  padding: 10px 20px; /* reduced vertical & horizontal padding */
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px; /* reduced font size */
+  transition: background 0.3s ease;
+}
+
+.back-home button:hover {
+  background-color: #272a2d;
+}
+

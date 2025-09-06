@@ -1,0 +1,47 @@
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using ResumeBuilderCapstone.Models;
+using ResumeBuilderCapstone.Services;
+
+namespace ResumeBuilderCapstone.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    [Authorize]
+    public class AchievementController : ControllerBase
+    {
+        private readonly AchievementService _service;
+        public AchievementController(AchievementService service) => _service = service;
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Achievement item) =>
+            Ok(await _service.CreateAsync(item));
+
+        [HttpGet("by-resume/{resumeId:int}")]
+        public async Task<IActionResult> GetByResume(int resumeId) =>
+            Ok(await _service.GetByResumeAsync(resumeId));
+
+        [HttpGet("{id:int}")]
+        public async Task<IActionResult> Get(int id)
+        {
+            var item = await _service.GetAsync(id);
+            return item == null ? NotFound() : Ok(item);
+        }
+
+        [HttpPut("{id:int}")]
+        public async Task<IActionResult> Update(int id, Achievement item)
+        {
+            if (id != item.AchievementId) return BadRequest("Id mismatch.");
+            var ok = await _service.UpdateAsync(item);
+            return ok ? Ok(new { message = "Updated" }) : NotFound();
+        }
+
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var ok = await _service.DeleteAsync(id);
+            return ok ? Ok(new { message = "Deleted" }) : NotFound();
+        }
+    }
+}
+

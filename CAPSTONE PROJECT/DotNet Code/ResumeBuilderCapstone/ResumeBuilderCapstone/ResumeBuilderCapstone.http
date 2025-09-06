@@ -1,0 +1,6 @@
+@ResumeBuilderCapstone_HostAddress = http://localhost:5178
+
+GET {{ResumeBuilderCapstone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
